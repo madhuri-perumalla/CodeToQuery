@@ -1,0 +1,1 @@
+"""CodeToQuery backend application."""
