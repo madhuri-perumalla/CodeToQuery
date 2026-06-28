@@ -78,8 +78,6 @@ Dashboard & Reports
 | Background Tasks | Celery, Redis                                                                                      |
 | DevOps           | Docker, Docker Compose, Nginx                                                                      |
 
----
-
 ## 📂 Project Structure
 
 ```text
